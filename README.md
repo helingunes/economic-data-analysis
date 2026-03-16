@@ -43,3 +43,8 @@ Modeller aşağıdaki metriklerle karşılaştırılmıştır:
 ## Amaç
 
 Amaç ekonomik göstergeler kullanılarak enflasyonun tahmin edilmesi ve farklı model yaklaşımlarının performanslarının karşılaştırılmasıdır.
+## Not
+
+Ekonomik veri setleri genellikle sınırlı gözlem sayısına sahiptir ve makroekonomik değişkenler yüksek oynaklık gösterebilir. Bu nedenle tahmin performansı sınırlı olabilir.
+
+Bu çalışma model doğruluğundan ziyade veri hazırlama süreci, farklı model yaklaşımlarının uygulanması ve performanslarının karşılaştırılmasına odaklanmaktadır.ß
